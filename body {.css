@@ -29,3 +29,18 @@ footer {
     padding: 10px;
     background-color: #ffcccb;
 }
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e14e2d;
+}
