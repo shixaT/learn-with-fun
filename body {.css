@@ -1,8 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #87CEEB; /* Sky blue background */
+    background-image: url('https://www.transparenttextures.com/patterns/clouds.png'); /* Cloud pattern */
+    /* ...existing code... */
 }
 
 header {
